@@ -1,5 +1,5 @@
 {
-    "name": "Integration Google Sheets, Perplexity AI, Anthropic Claude, Google Docs",
+    "name": "JSON FILE_Blueprint: Integration Google Sheets, Perplexity AI, Anthropic Claude, Google Docs",
     "flow": [
         {
             "id": 1,
